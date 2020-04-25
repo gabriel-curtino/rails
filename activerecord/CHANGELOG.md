@@ -1,3 +1,7 @@
+*   Support matches_regexp on SQLite
+
+    *Gabriel Curtino*
+
 *   Support bulk insert/upsert on relation to preserve scope values.
 
     *Josef Šimánek*, *Ryuta Kamizono*
